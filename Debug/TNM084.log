@@ -1,0 +1,9 @@
+﻿  GLSLprimer.c
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(242,44): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(243,46): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(287,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(288,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(329,56): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(330,57): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martin\Desktop\GLSL-lab-2017\GLSLprimer.c(80,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TNM084.vcxproj -> C:\Users\Martin\Desktop\GLSL-lab-2017\Debug\TNM084.exe
